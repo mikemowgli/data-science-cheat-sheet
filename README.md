@@ -30,4 +30,4 @@ TODO
 * Agile Artificial Intelligence (e-book for Pharo): https://agileartificialintelligence.github.io/ (ebook not available)
 * ROC curve explained: https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification/
 * Python Libraries for ML: https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c
-
+* Choropleth Python Maps: https://towardsdatascience.com/a-beginners-guide-to-create-a-cloropleth-map-in-python-using-geopandas-and-matplotlib-9cc4175ab630

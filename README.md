@@ -19,6 +19,7 @@ TODO
   * 3Blue1Brown, chapter 4, backpropagation calculus: https://www.youtube.com/watch?v=tIeHLnjs5U8
 * AI as a Service: algorithmia.com, pepite.com
 * GBM Model (Gradiant Boosting): https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab
+* Azure Data Factory Pipeline: https://towardsdatascience.com/how-to-secure-your-azure-data-factory-pipeline-e2450502cd43
 
 ### Learning
 * https://www.kaggle.com/learn/overview

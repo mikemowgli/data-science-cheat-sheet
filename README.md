@@ -57,3 +57,16 @@ TODO
 * The R Book: https://www.amazon.fr/Book-2Nd-Michael-J-Crawley/dp/8126569719
 * Exploratory Data Analysis with R: https://www.amazon.fr/Exploratory-Data-Analysis-Roger-2016-04-20/dp/B01NGZSD38
 
+## Certifications
+
+### Azure
+* [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer) needed exams:
+  * Implementing an Azure Data Solution ([DP-200](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200))
+  * Designing an Azure Data Solution ([DP-201](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201))
+* [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist) needed exam:
+  * Designing and Implementing a Data Science Solution on Azure ([DP-100](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100))
+* [Microsoft Certified: Data Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate) needed exam:
+  * Analyzing Data with Microsoft Power BI ([DA-100](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100))
+* [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer) needed exam:
+  * Designing an Azure AI Solution ([AI-100](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100))
+

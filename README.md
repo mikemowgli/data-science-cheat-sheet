@@ -37,6 +37,10 @@ TODO
 * K-fold Cross-Validation: https://machinelearningmastery.com/k-fold-cross-validation/
 * Time Series Analysis with Python: https://towardsdatascience.com/time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4
 
+## Other cheat sheets
+* Pandas Cheat Sheet: https://towardsdatascience.com/pandas-cheat-sheet-4c4eb6802a4b
+* Generic Data Science Cheat Sheet: https://github.com/FavioVazquez/ds-cheatsheets
+
 ### Books
 
 #### General
@@ -44,6 +48,7 @@ TODO
 * Storytelling with Data (part 1): https://www.amazon.fr/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257
 * Storytelling with Data (part 2): https://www.amazon.fr/Storytelling-Data-Lets-Practice-English-ebook/dp/B07YZG2WR7/
 * Azure Machine Learning: https://www.amazon.fr/Mastering-Azure-Machine-Learning-end-ebook/dp/B07R53PCZC/
+* Data-Driven Science and Engineering: https://www.amazon.fr/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1108422098 (youtube channel: https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
 
 
 #### Python
